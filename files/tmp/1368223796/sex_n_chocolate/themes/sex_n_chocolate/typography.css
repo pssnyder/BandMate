@@ -1,0 +1,25 @@
+body {
+	/* customize_body */font: normal normal 12px helvetica;/* customize_body */
+}
+.container a, .container a:visited {
+	/* customize_link */color: #e86576;/* customize_link */
+}
+.container a:hover, .container a:focus {
+	/* customize_link_hover */color: #ffffff;/* customize_link_hover */
+}
+h1.logo a, h1.logo a:visited {
+	/* customize_header_logo */color: #e86576;/* customize_header_logo */
+	/* customize_header_logo */font: normal normal 60px 'PacificoRegular';/* customize_header_logo */
+	/* customize_miscellaneous */ /* customize_miscellaneous */
+}
+h1.logo { 
+	/* customize_Logo_Background*/background-color: #4f0e19;/* customize_Logo_Background */
+}
+.container {
+	/* customize_Container_Background */background-color: #2e0b0f;/* customize_Container_Background */
+}
+#parallax {
+	/* customize_3D_Header_Border */border-color: #4f0e19;/* customize_3D_Header_Border */
+}
+.sctaTitle {
+	/* customize_CTA_Title_Color */color: color: #4f0e19;/* customize_CTA_Title_Color */

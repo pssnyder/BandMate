@@ -1,0 +1,2 @@
+Resposta Custom
+A custom version of the Resposta template. Responsive and using CSS3 and HTML5.
