@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+a {
+/* customize_a */ color: #ffffff; /* customize_a */
+}
+
+a:visited {
+/* customize_a_visited */ color: purple; /* customize_a_visited */
+}
+
+body {
+/* customize_body */ color: #fffff; /* customize_body */
+}
+
+h2 {
+		color:#ffffff;
+}
+
+#logo h1 {
+		color:#ffffff;
+}
+
+#logo h1 a {
+		color:#ffffff;
+}
+
+#logo a {
+		color:#ffffff;
+}
+#logo p {
+		color:#ffffff;
+}
+#menu a {
+		color:#ffffff;
+}
+
+.post .date {
+		color:#ffffff;
+}
+
+.post .meta {
+		color:#c6c6c6;
+}
+
+.post .meta a {
+		color:#c6c6c6;
+}
+
+#footer-bottom {
+		color:#ffffff;
+}
+
+#footer-bottom a {
+		color:#ffffff;
+}
+
+#footer-bottom p {
+		color:#ffffff;
+
+
